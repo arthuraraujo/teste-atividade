@@ -1,5 +1,7 @@
 # AI Portrait Generator
 
+live: https://ml-04-fi.streamlit.app/
+
 Um dashboard Streamlit para geração de imagens de pessoas específicas usando IA generativa.
 
 ## Funcionalidades
